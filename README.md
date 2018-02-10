@@ -4,3 +4,4 @@ website for my electronics
 *******erty*******
 :satisfied:
 :wink:
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
